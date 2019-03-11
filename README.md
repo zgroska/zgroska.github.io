@@ -8,5 +8,5 @@ body > .ui-infobar, body > .ui-toc, body > .ui-affix-toc { display: none !import
   font-weight: bold;
 h2 {text-align:center;
     font-style:italic;}
-    
+</style>    
 # <h1 id="bookHead"> START </h1>
