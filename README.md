@@ -1,7 +1,4 @@
 <style>
-body { overflow: hidden; }
-body > .ui-infobar, body > .ui-toc, body > .ui-affix-toc { display: none !important; }
-
 #bookHead {
   color: blue;
   text-align: center;
@@ -9,4 +6,4 @@ body > .ui-infobar, body > .ui-toc, body > .ui-affix-toc { display: none !import
 h2 {text-align:center;
     font-style:italic;}
 </style>    
-# <h1 id="bookHead"> START </h1>
+# <h1 id="bookHead">START</h1>
